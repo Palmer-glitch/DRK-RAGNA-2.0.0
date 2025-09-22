@@ -1,4 +1,4 @@
-//#ENJOY BRO😍
+9//#ENJOY BRO😍
 // Credit: 𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨 by      𝙎-𝙏𝞢𝞜
 const fs = require("fs-extra");
 if (fs.existsSync(".env"))
@@ -43,7 +43,7 @@ global.scan = "https://drk-tech-2.onrender.com/";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  "votre session ici"
+
 module.exports = {
   menu: process.env.MENU || "2",
   HANDLERS: process.env.PREFIX || ".",
